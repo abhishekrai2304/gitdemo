@@ -1,6 +1,6 @@
-hello welcome to SE evaluation of Git commands.
-Submit the answers to the questionnaire and Create a git remote repository on any of the git hosting websites,
-using one of the software you have written so far. Practice the git-commands and give demo for: Reporting of bugs, assigning of issues,
-fixing bugs, git branch, merge, git push & pull requests.
+Hello welcome to an evaluation of Git commands.
+Submit the answers to the questionnaire and create a git remote repository on any of the websites that host git repositories
+using code you have written so far. Practice the git commands and give a demo for: reporting bugs, reporting issues,
+fixing bugs, creating branches, merging repositories, git pushing, and making pull requests.
 
-github is very good for open source contributors.
+GitHub is excellent for open source contributors.
